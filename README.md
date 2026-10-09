@@ -5,7 +5,7 @@ C is not a programming language. It is a **blood pact with the CPU**. There is n
 ## 📜 The Incantations (Topics)
 
 ### ✨ Tier 1: Apprentice Cantrips
-*   [Summoning Strings](String_Notes_2.pdf) — *How to array your characters before they betray you.*
+*   [Summoning Strings](Lab_7.pdf) — *How to array your characters before they betray you.*
 *   [The Control Rituals](./notes/loops.md) — *Repeating history until a condition breaks the curse.*
 
 ### 🩸 Tier 2: Blood Magic (Intermediate)
