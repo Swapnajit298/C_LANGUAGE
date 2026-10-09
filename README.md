@@ -5,16 +5,16 @@ C is not a programming language. It is a **blood pact with the CPU**. There is n
 ## 📜 The Incantations (Topics)
 
 ### ✨ Tier 1: Apprentice Cantrips
-*   [Summoning Strings](Lab_7.pdf) — *How to array your characters before they betray you.*
-*   [The Control Rituals](./notes/loops.md) — *Repeating history until a condition breaks the curse.*
+*   [Summoning String](String_Notes_2.pdf) — *How to array your characters before they betray you.*
+*   [The Control Rituals](Lab_7.pdf) — *Repeating history until a condition breaks the curse.*
 
 ### 🩸 Tier 2: Blood Magic (Intermediate)
-*   [The Pointers Pact](./notes/pointers.md) — *Addressing the exact location of your data's soul.*
-*   [Structure Alchemy](./notes/structs.md) — *Stitching different data types into a single monster.*
+*   [The Pointers Pact](Pointer_notes.pdf) — *Addressing the exact location of your data's soul.*
+*   [Structure Alchemy](function_v2.pdf) — *Stitching different data types into a single monster.*
 
 ### 🌌 Tier 3: Forbidden Rituals (Advanced)
-*   [Dynamic Resurrection (`malloc`)](./notes/dynamic.md) — *Creating life on the heap. Remember to bury it (`free`).*
-*   [Bitwise Witchcraft](./notes/bitwise.md) — *Flipping bits directly inside the silicon.*
+*   [Understanding Memory (`malloc`)](Lab_9.pdf) — *Creating life on the reference address. Remember to bury it (`free`).*
+*   [Dynamic Memory Witchcraft](Lab_11_DMA.pdf) — *Flipping bits directly inside the silicon.*
 
 ---
 
